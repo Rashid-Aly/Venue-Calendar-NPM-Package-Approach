@@ -1,4 +1,4 @@
-# Message to Peet: Venue Calendar NPM Package Approach
+# Venue Calendar NPM Package Approach
 
 ---
 
@@ -8,11 +8,11 @@ Hi Peet,
 
 Thank you for the opportunity to work on the venue calendar NPM package project! I've analyzed your requirements and created a comprehensive plan for building `@get-micdrop/venue-calendar`. Here's my step-by-step approach:
 
-## 🎯 Project Overview
+## Project Overview
 
 I'll create a distributable NPM package that allows comedy clubs to embed their event calendar on their websites without using iframes. The package will automatically mount to `<div class="micdrop-calendar-container"></div>` elements and support List, Gallery, and Calendar view modes.
 
-## 🏗️ My 8-Phase Build Process
+## My 8-Phase Build Process
 
 ### **Phase 1: Foundation (Day 1)**
 - Set up NPM package structure with proper configuration
@@ -84,7 +84,7 @@ src/
 - ✅ **No Dependencies**: Lightweight with minimal footprint
 - ✅ **Cross-platform**: Works in React, Vue, vanilla JS, and more
 
-## 📦 Usage Examples
+## Usage Examples
 
 ### Simple HTML (WordPress/Squarespace)
 ```html
@@ -112,7 +112,7 @@ function App() {
 }
 ```
 
-## 🚀 Expected Outcomes
+## Expected Outcomes
 
 ### For Comedy Clubs
 - **Easy Integration**: Simple HTML copy-paste
@@ -126,14 +126,14 @@ function App() {
 - **Brand Control**: Consistent Micdrop branding
 - **Analytics**: Better tracking capabilities
 
-## 📊 Success Metrics
+## Success Metrics
 
 - **Bundle Size**: < 50KB (gzipped)
 - **Load Time**: < 1 second
 - **Browser Support**: Chrome 60+, Firefox 55+, Safari 12+, Edge 79+
 - **Cross-platform**: Works on WordPress, Squarespace, custom sites
 
-## 📋 Deliverables
+## Deliverables
 
 1. **Complete NPM Package** with all build outputs
 2. **Auto-mounting System** for easy integration
@@ -143,7 +143,7 @@ function App() {
 6. **GitHub Repository** with full source code
 7. **Build System** for development and production
 
-## 🔄 Timeline & Next Steps
+## Timeline & Next Steps
 
 **Total Timeline**: 8 days (1 week)
 

@@ -154,7 +154,8 @@ The package will be lightweight, fast, and easy for venues to integrate - exactl
 Let me know if you'd like to proceed with this plan or if you have any questions about the technical approach!
 
 Best regards,
-Rashid
+
+Rashid Ali
 
 ---
 
